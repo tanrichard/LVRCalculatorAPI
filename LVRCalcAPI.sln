@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LVRCalcAPI", "LVRCalcAPI\LVRCalcAPI.csproj", "{8EB273DD-9AF8-49AA-AC48-27CD428F11EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LvrCalcAPI.Tests", "LvrCalcAPI.Tests\LvrCalcAPI.Tests.csproj", "{A3B0D852-BB19-443E-8585-B8D161AF19C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EB273DD-9AF8-49AA-AC48-27CD428F11EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB273DD-9AF8-49AA-AC48-27CD428F11EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB273DD-9AF8-49AA-AC48-27CD428F11EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB273DD-9AF8-49AA-AC48-27CD428F11EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3B0D852-BB19-443E-8585-B8D161AF19C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B0D852-BB19-443E-8585-B8D161AF19C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B0D852-BB19-443E-8585-B8D161AF19C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B0D852-BB19-443E-8585-B8D161AF19C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F014BB0C-EC98-4051-897F-C2BAEFD2DB4E}
+	EndGlobalSection
+EndGlobal
